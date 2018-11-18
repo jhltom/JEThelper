@@ -1,0 +1,24 @@
+1                                         //number of article
+TomLee                                    //author name
+SeoulNationalUniversity                   //institution
+5 The Middle-income Trap in Guatemala     //#letters and title
+EN                                        //language
+11/31                                     //submittedDate
+Reviewing                                 //status
+n/a                                       //result
+n/a                                       //newDueDate
+0                                         //RevisedArticleReceived
+0                                         //ReRevisedArticleReceived
+n/a                                       //OverallResult
+4                                         // # of reviewers
+ProfLee                                   //name
+KoreaUniversity                           //institution
+12/7                                      //duedate
+1                                         //requestSent
+1                                         //requestResponded
+A                                         //resultGrade
+93                                        //resultNumber
+12/5                                      //completedDate
+1                                         //reviewReceied
+0                                         //donation
+ 
